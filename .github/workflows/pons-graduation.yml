@@ -1,0 +1,42 @@
+name: Pons Graduation Watch
+
+on:
+  schedule:
+    # Ruleaza la fiecare 5 minute. GitHub nu garanteaza precizia exacta
+    # (poate intarzia cateva minute in perioade aglomerate), dar e suficient
+    # de des pentru o notificare de graduare aproape in timp real.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}   # iti permite sa il pornesti si manual, din tab-ul Actions
+
+permissions:
+  contents: write   # necesar ca sa poata comite inapoi state.json
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instaleaza dependentele
+        run: pip install -r requirements.txt
+
+      - name: Verifica graduari noi
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MAX_GRADUATION_CHECKS_PER_CYCLE: "1500"
+        run: python pons_check.py
+
+      - name: Salveaza starea (commit state.json)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "update state [skip ci]"
+          git push
