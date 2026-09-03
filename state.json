@@ -1,5 +1,5 @@
 {
-  "last_block": 53524512,
+  "last_block": 53531743,
   "tokens": {
     "0xA7aEb86b4cb0D5f1CbdB5Ea9C0EeB8d16758Fb25": {
       "name": "koyal",
@@ -496996,9 +496996,10 @@
       "name": "Pisswasser",
       "symbol": "PIS",
       "source": "v2",
-      "graduated": false,
+      "graduated": true,
       "first_seen": "2026-09-03T05:44:12.040938+00:00",
-      "infra_address": "0x5f575A5a2718571cfD8a1c5cf7530bd9200Dc50e"
+      "infra_address": "0x5f575A5a2718571cfD8a1c5cf7530bd9200Dc50e",
+      "graduated_at": "2026-09-03T15:48:08.601483+00:00"
     },
     "0x23247abBF86f410B43A7389016822Bdb4A4757a6": {
       "name": "Chad Vlad",
@@ -562311,9 +562312,10 @@
       "name": "Nebulae",
       "symbol": "NEBULAE",
       "source": "v2",
-      "graduated": false,
+      "graduated": true,
       "first_seen": "2026-09-03T15:34:37.566571+00:00",
-      "infra_address": "0x35cdcC0Afcaa0cC36Dd7Fa2D3558BC306c2E14BC"
+      "infra_address": "0x35cdcC0Afcaa0cC36Dd7Fa2D3558BC306c2E14BC",
+      "graduated_at": "2026-09-03T15:47:05.204557+00:00"
     },
     "0xF0F5E5e740fd10aCcCaE86Aa82d67Ed02110d3BC": {
       "name": "Test",
@@ -562743,9 +562745,10 @@
       "name": "Robinator",
       "symbol": "ROBINATOR",
       "source": "v2",
-      "graduated": false,
+      "graduated": true,
       "first_seen": "2026-09-03T15:34:58.247174+00:00",
-      "infra_address": "0xCCfaA2781976eED1a031DB7F1C9e21D5dC04ccC1"
+      "infra_address": "0xCCfaA2781976eED1a031DB7F1C9e21D5dC04ccC1",
+      "graduated_at": "2026-09-03T15:48:26.876604+00:00"
     },
     "0x9b051286dfef9619F707ba408e46CbC7A518D201": {
       "name": "RobInHood",
@@ -563226,8 +563229,1866 @@
       "graduated": false,
       "first_seen": "2026-09-03T15:35:20.441009+00:00",
       "infra_address": "0x2be943f7d5c9E19864a5513AE95E8904441D04aE"
+    },
+    "0x2FA4AD1c2CEf5C905677CaC6D9F3607e6A9f299d": {
+      "name": "Netanyahu Does Not Surrender",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:19.920508+00:00",
+      "infra_address": "0x1e5ba9fA5c58EAE30F7B5Fb6EC970Afb59b13492"
+    },
+    "0x32507547d1698764342Df0F2a2De62796904eE82": {
+      "name": "Netanyahu Does Not Surrender",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:20.514680+00:00",
+      "infra_address": "0xb5E23Cb21cAec8668B58301f82A25A88AA0d028c"
+    },
+    "0xa043eBC84CB5C316a39202Ff90fd8b339401C76b": {
+      "name": "Astro Yeedaxno",
+      "symbol": "ASTYE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:21.101221+00:00",
+      "infra_address": "0x59e2d0579CbB5DCd677B9C4DA019C8DD12950553"
+    },
+    "0xc2E18C4bd5bCd689DcE972eae9392A95cefb6770": {
+      "name": "Paraverse",
+      "symbol": "PLD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:21.679160+00:00",
+      "infra_address": "0x98C3c16F0a7b4417880fB073cF59722bea026D77"
+    },
+    "0x568593781a41d5c2805A2928891889ea67fe83D2": {
+      "name": "Netanyahu Does Not Surrender",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:22.267919+00:00",
+      "infra_address": "0x277bB8C9fFF9975504c05806950cd55c5bfeF84e"
+    },
+    "0xc733Af5c6009aEE281f9a699d6a93a72E336E799": {
+      "name": "Bertcoin",
+      "symbol": "BERT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:22.858220+00:00",
+      "infra_address": "0x4Fa154298899b415eC6Fa7255731E7698B743689"
+    },
+    "0x2cA3837737FC0B52cB4ee9ebB8f67A9E6f5FF99b": {
+      "name": "Neko Cat",
+      "symbol": "NEKO",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:23.461012+00:00",
+      "infra_address": "0x88A1D3D5d2D9377db5C6A287750Fb7793b88683b"
+    },
+    "0xE0C9D675758DeD8eF359846A8F9b522F9F01620B": {
+      "name": "Amber Golems",
+      "symbol": "GOLEM",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:24.040372+00:00",
+      "infra_address": "0x609410b4eCeAb9cC2E00305278FCE5c8f54845C3"
+    },
+    "0x0F832b6816c7524d29dFF3673d6354f72deDEC48": {
+      "name": "Ghost",
+      "symbol": "GHOST",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:24.623030+00:00",
+      "infra_address": "0xD9EE26B1A993E4ad4b9d55Ba8B62dd4F4A979978"
+    },
+    "0x113cd389308175743B6de65d633Cfb316fe7b456": {
+      "name": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05dc\u05d0 \u05e0\u05db\u05e0\u05e2",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:25.211678+00:00",
+      "infra_address": "0xb751fB12E014a1686CF0c4569DC9a5a83Dd25911"
+    },
+    "0x628fE2a0bF59E7EC2417D9aADA0939940d25e62c": {
+      "name": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05dc\u05d0 \u05e0\u05db\u05e0\u05e2",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:25.814297+00:00",
+      "infra_address": "0x911F41f00718Da724E3D76961B1a60FBD1BE42e9"
+    },
+    "0xEdfF137153B9d2Db67A5e1272A5eE19a01347410": {
+      "name": "PIXIES",
+      "symbol": "PIXIES",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:26.399831+00:00",
+      "infra_address": "0x041a0dCBb1076CE288baD8C1F4011fD7FBe20e26"
+    },
+    "0x892AB575C43017192899D8dcaB110CF4CcaB6d23": {
+      "name": "gfdg",
+      "symbol": "dfgdfgdf",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:26.984087+00:00",
+      "infra_address": "0xa9A4Bee4663d2d503Dc2D90e3793a2915e8aF554"
+    },
+    "0x0B9e08b7f15114A99dA8B77CEdED0B46FFb9B3B6": {
+      "name": "TRADE",
+      "symbol": "TRADE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:27.646531+00:00",
+      "infra_address": "0xE0219ae217A87A43657Cf8Db0817E6CD6e06204e"
+    },
+    "0xbdBc80eEd20C1D93f839828D5EE3D71cC145FF95": {
+      "name": "Hallelujah",
+      "symbol": "Hallelujah",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:28.231337+00:00",
+      "infra_address": "0xF18B0e35d0751Eec8b1B4fE68443E3eFCcCcbFE9"
+    },
+    "0xB9658f4DAb6bFc82091A43d0932caAB749f95A1d": {
+      "name": "yieldflare",
+      "symbol": "YIELDFLARE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:28.811689+00:00",
+      "infra_address": "0x9f6dB8055110326C4e5345df0E4Cd98611dCDA38"
+    },
+    "0x6367a5bDa8B1717D7484044AEeAf963F4BEb261d": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:29.391729+00:00",
+      "infra_address": "0x968aD22A0FC0916778d6DD04FFb15Ca6B2c4a40e"
+    },
+    "0x735c7bBE43da31EE79c639CB445bF50e33172fE9": {
+      "name": "PIXIES",
+      "symbol": "PIXIES",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:29.977206+00:00",
+      "infra_address": "0x5e1D359d585DDA9Af73c0F4A23A07d4865a7aCcF"
+    },
+    "0x50B19D67b987Ef6F900FBe11123d8b14d85Ad9a0": {
+      "name": "SlingShot",
+      "symbol": "SLINGSHOT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:30.559230+00:00",
+      "infra_address": "0x95F26885Aba78A0490f512227953ABc0A6fa8C3D"
+    },
+    "0xf31ff05ecE1384828c5D65706AA28bBaa761E4B6": {
+      "name": "WYNNRETURNS",
+      "symbol": "LONGBTC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:31.134330+00:00",
+      "infra_address": "0x8e7B69c5af21D73BE48756FbA7D472420c48F7e5"
+    },
+    "0x0Afe24f3480aFba2Ff5b1EBFAA309fbB841f048c": {
+      "name": "PIXIES",
+      "symbol": "PIXIES",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:31.720960+00:00",
+      "infra_address": "0x493Cddd59A32D06Ad78d1819a4a76262190e6FBE"
+    },
+    "0x6860A87E6853FFfB9F559EF22E61430D71D6F8E3": {
+      "name": "debtlobster",
+      "symbol": "debtlobster",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:32.305468+00:00",
+      "infra_address": "0x73fe5883F9d3290B0Edb8D456b4F08a54F7cC4aA"
+    },
+    "0x9BBFD01fDe32377eA5100cC71D424a9a2a44b34c": {
+      "name": "burlay",
+      "symbol": "BURLAY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:32.901498+00:00",
+      "infra_address": "0x4368841B614c5A1D2Db195f895733F081Db98ceE"
+    },
+    "0x66892eD32882A0fE0ED6689ac3C4a14CF93d8A6f": {
+      "name": "Envy Capital",
+      "symbol": "ENVY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:33.483279+00:00",
+      "infra_address": "0x0AA98115b1b1CA966323185EB8ae01Ae3b504e31"
+    },
+    "0x5297BDde2Cad1f6D9d88934894Af87F6Bc26BA67": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:34.092768+00:00",
+      "infra_address": "0xDC62ffc86c3884787d7225fa1c13B52d54434cA8"
+    },
+    "0x1AFF040dAE6F42444Eb492EBe3B60B0b41C8DCCC": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:34.609150+00:00",
+      "infra_address": "0x8035f8689433940EFba830F944BcBa702f1805f3"
+    },
+    "0x6DFC733BE04CD5049672373844689918fd602c0D": {
+      "name": "DLSS 5",
+      "symbol": "DLSS5",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:35.223013+00:00",
+      "infra_address": "0xb7F420839C8512d3EFa85e5b4072624d34815C3A"
+    },
+    "0x621b18CF61133Ce3e6902EbcDf7838A8B283fBE5": {
+      "name": "ROT/RBLX",
+      "symbol": "RBLX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:35.806814+00:00",
+      "infra_address": "0x5edC6F3783552256876C3B78d5170b295eaE17E7"
+    },
+    "0x360Ba3D3BCA7aB8f4ba9aB1604636dE07E351760": {
+      "name": "CHARLIE BROWN",
+      "symbol": "CHARLIE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:36.407948+00:00",
+      "infra_address": "0xa3a51770Da269b2Aab5C8de67D739e09FA8a9913"
+    },
+    "0x668c1dBEf429EB187A8aCeA18199f02FEe0D5C2A": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:36.856634+00:00",
+      "infra_address": "0x119feA04b0868E16CeF2f8f419c7c58f7a831E2b"
+    },
+    "0xa988fae2D8f34BC65AD33E73b467eC820446d9BB": {
+      "name": "Pixel Cat",
+      "symbol": "PIXELCAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:37.293871+00:00",
+      "infra_address": "0xC45a2b06afEc01bEbd93CE75C5f75CD805eb2fE2"
+    },
+    "0x21154B62C04821cd77889A8E881c1Ba9b81BB545": {
+      "name": "Netanyahu Does Not Surrender",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:37.743506+00:00",
+      "infra_address": "0x04767F796aEd0d59A4B0c23E251BB366336868F5"
+    },
+    "0xCc8381D9A74a1f86D64b8bbf87923dF423fbc48a": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:38.187249+00:00",
+      "infra_address": "0x19e2946D590be5D28D292780CAC0dBD9F7C1d114"
+    },
+    "0x167b5f62Ad3cB92cf95CB451274BA35A21F66D4B": {
+      "name": "Z69 Alpha $ETH ROBINHOOD",
+      "symbol": "Z69ALPHA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:38.633724+00:00",
+      "infra_address": "0x28E82F1aCb2Ae49c7c5C483afFBa16aF7C07C272"
+    },
+    "0xa49Cc30c904DE04cb5d85f37Cf65dF17e82a4773": {
+      "name": "Yield Farm",
+      "symbol": "YIELDFARM",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:39.074671+00:00",
+      "infra_address": "0x3f4e56e34E38b7596D1c89C2F86fa781c0e222d7"
+    },
+    "0xb050D309de0fbE6403766AEBd0b3C64796bd2839": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:39.517374+00:00",
+      "infra_address": "0x31A484F79794B2c6A5deA7C7dF6de0bBed32B85e"
+    },
+    "0xc5649C1F4789a0b444EB217Dc87ddb35ff0ca69e": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:39.952854+00:00",
+      "infra_address": "0x1e383385fbF593DDD89118747bC03A1001360B8B"
+    },
+    "0x9310a268557732E46BF098ADD0Fc9d1B229fBCfd": {
+      "name": "WeatherNext3",
+      "symbol": "WeatherNext3",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:40.401504+00:00",
+      "infra_address": "0x54920e71Af918B5C6B34971943dc1c40694Fb2Dc"
+    },
+    "0x4E1220b791354B5a67fE28a33EB1209d7c3f0181": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:40.844716+00:00",
+      "infra_address": "0xA0c465F3B9Cc369B339AB966ACdC29D5169B2a0A"
+    },
+    "0x23f1edbb0521aba28a3628Ea8A0f34c80859224B": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:41.292344+00:00",
+      "infra_address": "0xCaA380369a74c60688f5E26D1B729A0D0177a5B4"
+    },
+    "0x8e1bb3E1e6cc9E4527936bBaf35249C885Ab307D": {
+      "name": "Back Pixel Cat",
+      "symbol": "BACKCAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:41.775430+00:00",
+      "infra_address": "0x8E8B1c041E477D31fD69c5EC0811b7E4c670Cbe8"
+    },
+    "0xf92CDaE4Ef97d14946e4a68c5bDb4c4a56b258c2": {
+      "name": "juggernaut",
+      "symbol": "juggernaut",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:42.221300+00:00",
+      "infra_address": "0xF4720b766716B34ea603f64421cf9D475e21fa8f"
+    },
+    "0x895cb4F24Dd00870653c112a1E3125475EBB481f": {
+      "name": "glassmorphism",
+      "symbol": "GLASSMORPHISM",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:42.694710+00:00",
+      "infra_address": "0xb14650FB2E14b89D2d1f5Fc99771291b5E3F8877"
+    },
+    "0xf74C3864a31340e33211a0e7827C8c883342E7b0": {
+      "name": "CamelToe",
+      "symbol": "CamelToe",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:43.148052+00:00",
+      "infra_address": "0x07893841413CdEd7fc0d9B9AE891271B2361a9c5"
+    },
+    "0xFCB62FC89c6AeD827e6Aa79Df1EaFA3D6381f304": {
+      "name": "sciencecoin",
+      "symbol": "SCIENCE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:43.607857+00:00",
+      "infra_address": "0xce50Af8E42aD6359EF08B99c89713CA79429Bd4f"
+    },
+    "0x21d4Ac860932F418a0a6ff23a6B62113aa22e845": {
+      "name": "HE HUA PANDA",
+      "symbol": "HEHUA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:44.045873+00:00",
+      "infra_address": "0x91ebe6c55f503Deb0A4DF609A84cac3B4E77Eb50"
+    },
+    "0x32aF8b3175fADE559Ec0075E0619c204cB2a7135": {
+      "name": "Robinhood Pix Cat",
+      "symbol": "\ud83d\udc08\ud83c\udff9\ud83c\udf40",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:44.544396+00:00",
+      "infra_address": "0x597E662a5e4996bB535B6751FA52247804c421e2"
+    },
+    "0x17b42fFeCEA55E23A1849FeEb4e7A1c27F539871": {
+      "name": "GRADUATE",
+      "symbol": "GRADUATE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:45.305362+00:00",
+      "infra_address": "0xf0617f60cC8A6347b03d4D46c556cd8Cb4BEBb37"
+    },
+    "0x8452E78111739aCe68e6ea2407f1BD77f30a5b28": {
+      "name": "Reactor 57 Corrosion",
+      "symbol": "EDF57",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:45.817006+00:00",
+      "infra_address": "0xb068Fddf828C67dA9743C580a89252cC50256CE8"
+    },
+    "0x6c82D5F046111b7ec813A9Cd0866f72e6E8EF32E": {
+      "name": "Robinhood Pixel Cat",
+      "symbol": "PixelCat",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:46.279801+00:00",
+      "infra_address": "0x5b1e9D4b32D7A955b84754b666547D089117110C"
+    },
+    "0x4B7d64b36B384d14f2A9146b1B3a1CaB419CD96c": {
+      "name": "FART123",
+      "symbol": "FART123",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:46.905947+00:00",
+      "infra_address": "0xcF83755Eeb883Dd128e0C53BcAeF1A25c1887EA6"
+    },
+    "0x358e08c7C9308354Be6F832E5cB5Ac8944FDD93D": {
+      "name": "fiber",
+      "symbol": "FIBER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:47.355041+00:00",
+      "infra_address": "0xb47f217a807E16b17721D61f6f1d2C81bE412A42"
+    },
+    "0xBD545e628F920dCBd0369E86822dDbE2cC0066af": {
+      "name": "Allen Coin",
+      "symbol": "Allen",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:47.795030+00:00",
+      "infra_address": "0x58Db058711751c259596ff678586fCa62cb02174"
+    },
+    "0x056d5281Fe0C9FDFEB4de7128e31834f72c22d92": {
+      "name": "Pons Guy",
+      "symbol": "Unipcs",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:48.242504+00:00",
+      "infra_address": "0xaD6a6CA681D5F72bE9F870CE2E78B993851cB455"
+    },
+    "0x188D29F14c01cAF6a8C337Ca83646693FF811025": {
+      "name": "UnMusked",
+      "symbol": "UNMUSKED",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:48.700968+00:00",
+      "infra_address": "0x10a406D35b7475FfCC7C0c0384947243EcE3e67A"
+    },
+    "0xe64De7Ef728d2317b79014b0Ab844671E429C29a": {
+      "name": "Miserable Man",
+      "symbol": "MISERABLE\u2060",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:49.152957+00:00",
+      "infra_address": "0xFb2E3AFb436C2d7032389Ef0b4b77ac8309F9952"
+    },
+    "0x807337B9574C4B4A3521b86E855CD91CF7DF3B9c": {
+      "name": "Miserable Man",
+      "symbol": "MISERABLE\u2060",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:49.616271+00:00",
+      "infra_address": "0xD744CaAaB642888619d89598574bA88Ed7f3e7A0"
+    },
+    "0xa9Ef70278a677b927d97ad5B69c94E03df0c96eA": {
+      "name": "Unmusked",
+      "symbol": "UNMUSKED",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:50.062661+00:00",
+      "infra_address": "0x3B1191C74b33915CCBb59d4725A98041F869740B"
+    },
+    "0x8A948E495E43fa1DA800445C46B315845218D686": {
+      "name": "Unmusked",
+      "symbol": "UNMUSKED",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:50.507045+00:00",
+      "infra_address": "0x2A49482090b746bA91F61559c81ed46c6E17890A"
+    },
+    "0x14F282C36699b18376f7b5F14ECa04989C906cE5": {
+      "name": "Miserable Man",
+      "symbol": "MISERABLE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:50.954145+00:00",
+      "infra_address": "0xC7c1b8703218bF6cEC54e6d8a6BD9FcD6D34d947"
+    },
+    "0x525E2441903c16F0a64cce5d337D41c16f47C0b0": {
+      "name": "Felix",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:51.417514+00:00",
+      "infra_address": "0x3c18C56710cBEe3a8d9E9A7db28c8B0be5C86D3d"
+    },
+    "0x2Dd3cb4c5D3952b6D3a8e5A25Fbec1B92c2a1Aee": {
+      "name": "Be happy",
+      "symbol": "Happy",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:51.860536+00:00",
+      "infra_address": "0xB3d8538841fd0F35895bC3f2AC10AC691221af3D"
+    },
+    "0x4b498587E0BB4b6015591Fafa4E56AfD2495cCcA": {
+      "name": "P I N P O N S",
+      "symbol": "PIPONS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:52.309254+00:00",
+      "infra_address": "0xE025108506C44f1E797B7D550B6C0E4e9280cA3A"
+    },
+    "0xa2332369cdb9711a01b0d1342dB360F49A284a65": {
+      "name": "Fletch Finance",
+      "symbol": "FLETCH",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:52.769083+00:00",
+      "infra_address": "0xBD873cb3C5DC9f9AcB9c3d3E0cD9616524F10B8c"
+    },
+    "0x3d4959286A02c9a489cB75f3501d66D0F11e9Aca": {
+      "name": "persistent memory",
+      "symbol": "memory",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:53.237688+00:00",
+      "infra_address": "0x2Ac2A55b434dCcfC5CD96d3151da834e7e98180F"
+    },
+    "0x56D0d50ED9e2C4ca6Cc6D4Abb29ba56EC36b95f6": {
+      "name": "Oof",
+      "symbol": "OOF",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:53.683841+00:00",
+      "infra_address": "0x069B8b2FCf32C4B9C10E22d77DF38C1C3f680543"
+    },
+    "0xc0985ef5178DF0b9AA1f128A0BC5c79A29C476A5": {
+      "name": "Assay Room",
+      "symbol": "ASSAY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:54.131046+00:00",
+      "infra_address": "0xd4F96EDC72a51fb08Ab0C8ac079cfD97FA44f1B3"
+    },
+    "0x3eDd226d4e217206B4B903871e7507cD96B50051": {
+      "name": "cud",
+      "symbol": "CUD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:54.586190+00:00",
+      "infra_address": "0x8cEE6C79954b3FB563d2b422861758a8952F94B0"
+    },
+    "0xcE01cfa5fE8f9B7F298add2c48Bf92698f08d2d5": {
+      "name": "NEON",
+      "symbol": "NEON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:55.026913+00:00",
+      "infra_address": "0x075Bf8b524D0846985dA9578F7C499319e900eAC"
+    },
+    "0x8FBE4C827d7b72acd30B4d0986eEDddc95e60b17": {
+      "name": "Ponsbros",
+      "symbol": "PONSBROS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:55.464465+00:00",
+      "infra_address": "0x8Db6FDEB2249C9B3F0a2c89aFcd89100A141CBD4"
+    },
+    "0x8A86B05Af9290f70c32891eaDCc5BE682891c27d": {
+      "name": "Valthera MMO",
+      "symbol": "Valthera",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:55.948376+00:00",
+      "infra_address": "0x763583370B8bF6Ce7c206b1eb31BF42b074d9D31"
+    },
+    "0xbb7aB6225BF5F6672baA77DFd34eE513024d5D1c": {
+      "name": "cunt",
+      "symbol": "cunt",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:56.526842+00:00",
+      "infra_address": "0x65336D319D7064F83F358eBBa645fbd78F63a98E"
+    },
+    "0xE8309214261220D05024c503f514D41477B4e07E": {
+      "name": "Arcwell Credit",
+      "symbol": "ARCWELL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:57.101199+00:00",
+      "infra_address": "0x6Cb48Dd4c38A30216D07319f8F9f11d43dA96E5A"
+    },
+    "0x98334fCB7dc5B432d6874DBfa7a3bA935951eBc9": {
+      "name": "Robinhood Pixel Dog",
+      "symbol": "PIXEL DOG",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:57.913246+00:00",
+      "infra_address": "0x9c190d56D070B5a94A997bB6c449b5FFfFbe9786"
+    },
+    "0x14a53F2F3fc66ED0694694cdABc96F447Ab0a857": {
+      "name": "NVDGPU",
+      "symbol": "NVDGPU",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:58.497655+00:00",
+      "infra_address": "0xEb77B5Bf8F4b22Efcd29b2d20829fd053777392d"
+    },
+    "0x83f882B3b7C385eF5C20F4b3EeFc7a3960583e04": {
+      "name": "Felix Cat",
+      "symbol": "FELIX",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:59.074373+00:00",
+      "infra_address": "0x97CA08D5085A4d00e8CB9EE76B05bCDC8a050A42"
+    },
+    "0x092f2481BA53669866b78860b63E05639A82248a": {
+      "name": "BeastMon",
+      "symbol": "BEASTMON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:46:59.654535+00:00",
+      "infra_address": "0x08b73fd7492319cFe831753dF04d6ba58fCf3DC1"
+    },
+    "0xDB5f3a7be2fA1900C894D3B950eF8b6D31C44C72": {
+      "name": "slain.io",
+      "symbol": "SLAIN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:00.192508+00:00",
+      "infra_address": "0xF55cb15DC8d324dfE2Db17AE0499DC1a1c997E95"
+    },
+    "0x9e82b24Dce37259773f0aBb2c0F1E8Bc84e63b26": {
+      "name": "Cokehead",
+      "symbol": "cbBTC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:00.742416+00:00",
+      "infra_address": "0x84F26235557a31C513DD47F1eF648315aa4311B6"
+    },
+    "0xb1E5E9a1E824eEFe18CbF495865170c603440bfd": {
+      "name": "Fighting for everyone",
+      "symbol": "FIGHTING",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:01.329405+00:00",
+      "infra_address": "0x73BbA9a4Fb145DD74a749eA3b210b0947dC82a3b"
+    },
+    "0x25E21367D4085aF1eFaCc0478182623a3857AA47": {
+      "name": "Token Cat Limited",
+      "symbol": "TC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:01.822296+00:00",
+      "infra_address": "0x4B704f7c22770b017ab26A333C0A72FcD9D47Fda"
+    },
+    "0x80055B01753D57b2072D5E2e52474b166b78a51f": {
+      "name": "AgentPons",
+      "symbol": "AGENTP",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:02.292327+00:00",
+      "infra_address": "0xB9f5a8bd620dd009675556992aBFb669B31fbF24"
+    },
+    "0x609aD7438e5aE9696C0902d0e380a427D73378A6": {
+      "name": "Giga Swindle Deluxe Index 500",
+      "symbol": "GSDX",
+      "source": "v2",
+      "graduated": true,
+      "first_seen": "2026-09-03T15:47:02.739715+00:00",
+      "infra_address": "0x57FD3d8F7Fd0E5A5b9773243e5d5597976066cC2",
+      "graduated_at": "2026-09-03T15:47:34.510982+00:00"
+    },
+    "0x16c2A916137851bF0d2C2919c427b75c3B41d488": {
+      "name": "Promo Family",
+      "symbol": "PROMO",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:03.205708+00:00",
+      "infra_address": "0xacEC45711163678Dfd273faE79B3000799A21A7D"
+    },
+    "0xF966D4b8070bB753bbc12d267Cbf4CE0f060E849": {
+      "name": "Fighting for everyone",
+      "symbol": "FIGHTING",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:03.653235+00:00",
+      "infra_address": "0x6cDfCDf4DBb164e069224abBf300A54D67d6254b"
+    },
+    "0x7F51945B586a0685dC45FcD34140aA9fF301dF64": {
+      "name": "AnimalHouse",
+      "symbol": "AnimalHouse",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:04.087964+00:00",
+      "infra_address": "0x83621557ee6bF2d6905144Bd4F4E933a0EBe296a"
+    },
+    "0xf53CFc75e6021A114d4abA1B4061668259b5759E": {
+      "name": "referral coin",
+      "symbol": "REFER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:04.662395+00:00",
+      "infra_address": "0xB2396D44c78ad13B21e1794344cf9a9c94dD92f3"
+    },
+    "0x94900c552FFB18ecB382C9868b17F737A7885F2E": {
+      "name": "Ponsicle",
+      "symbol": "PNSL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:05.094536+00:00",
+      "infra_address": "0x828d7A66fF5F3a66a2E17cb9b994c6Ff9f2F7b15"
+    },
+    "0xEc1FDDabB9075c3616b9895A141216C94d80337B": {
+      "name": "GITHUB",
+      "symbol": "GITHUB",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:07.416118+00:00",
+      "infra_address": "0x1A4986fb2fe8782b217C7BDa4c48B2C3f2056772"
+    },
+    "0xd3cd937A149276d05A22878E38D1d21Cff52A0Be": {
+      "name": "Ponsicle",
+      "symbol": "PNSL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:08.023045+00:00",
+      "infra_address": "0x89A24c719B91e86BC421908EE23CC6314BC23796"
+    },
+    "0x0c82a064BADf9502Aa70f7635eC13239B8F86746": {
+      "name": "Robinhood Vector Cat",
+      "symbol": "Vector Cat",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:08.603133+00:00",
+      "infra_address": "0xfFC11aa063b381FA5b503158286eEAd6988B1a50"
+    },
+    "0x45B1B8D1E70D4b4B935596D632D36098C1a9d5de": {
+      "name": "Great Coin",
+      "symbol": "GREAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:09.176224+00:00",
+      "infra_address": "0xa883153Db261DCCE787e15c625d4a62b8674D22e"
+    },
+    "0xCf04CCd5088170135E91e5CCcC25d733094F30B6": {
+      "name": "LOLA",
+      "symbol": "LOLA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:09.754285+00:00",
+      "infra_address": "0xce8b296fDC0E24Ae1c4cC91CC63E3A857DfB6Ad0"
+    },
+    "0x12bCB53DAF2878467c457Cde5Fec6FB9d5c6d17D": {
+      "name": "Clodiud",
+      "symbol": "CLODIUD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:10.334966+00:00",
+      "infra_address": "0x5E6e3b085E1Ab6E48c9D9dC10b209088087EA2ce"
+    },
+    "0x7d9438F7699a67CDcF5e637fcB8Eb5448c1f90E7": {
+      "name": "Dumb money",
+      "symbol": "DUMB",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:10.836452+00:00",
+      "infra_address": "0x14bb99B8282596C0b72A668Fe52E7D5cF6E8BaEf"
+    },
+    "0xeB800BdbF072b97b9eC49DD151EEe0b0Eac1c823": {
+      "name": "ARENA AGENT",
+      "symbol": "ARENA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:11.617720+00:00",
+      "infra_address": "0xb7896c9a8fC139f28885EE50c3134E9c90601D8B"
+    },
+    "0x19419e17Db798AebCDE936b5D8AB82c2c3a80123": {
+      "name": "legs",
+      "symbol": "LEGS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:12.122805+00:00",
+      "infra_address": "0xcd8B365D7dC09D617B38EBF03cAD18640E3e4A5F"
+    },
+    "0x78d287fEF3a25E29711a546b804C143F8002B6D0": {
+      "name": "The Office",
+      "symbol": "OFFICE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:12.636720+00:00",
+      "infra_address": "0x84F524F6bcc4999662534c1aA349B1029091134F"
+    },
+    "0xad1e916B636E9f6b4BA26A4fD661F2d08b4B3978": {
+      "name": "Retro Miners",
+      "symbol": "RMINERS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:13.137821+00:00",
+      "infra_address": "0x007f55daCA7f08A72CA7B672d65F4C1096C91Bbd"
+    },
+    "0xF0d415C5B1e33485D521202872bD0d9acbfc93A2": {
+      "name": "ReineiraOS",
+      "symbol": "REINEIRA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:13.640280+00:00",
+      "infra_address": "0x2dDd2e4D14A76EdfE2A910924ec0e52434186b09"
+    },
+    "0x3912122cB41B818cF251B0a2f4D8497217B414D0": {
+      "name": "Netanyahu Does Not Surrender",
+      "symbol": "UNITY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:14.147294+00:00",
+      "infra_address": "0x5E9C8d92f90196488B5404B0fcE45b8e0256e2D5"
+    },
+    "0x46131958C1310EEE729CD57c7cb75b8200C77CC9": {
+      "name": "launch on pons",
+      "symbol": "LONS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:14.660013+00:00",
+      "infra_address": "0x5e99EB802FC8bf1a5B4601eF99c07B9b4A2Fa4cB"
+    },
+    "0x891622e9ac812F334799f2AFbCe5c17d20a21677": {
+      "name": "CATSZN",
+      "symbol": "CATSZN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:15.107151+00:00",
+      "infra_address": "0x4DE06b9021c93D2fE56D80fA138F2284B2742eE0"
+    },
+    "0xa077eC8bC4253b984299318dB2bd44bc805d12c6": {
+      "name": "Veydock",
+      "symbol": "VEYDOCK",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:15.576657+00:00",
+      "infra_address": "0xD7336CC8F15786F7aDee99ACA1201319d9C56A58"
+    },
+    "0x10937aFcD977fAD03AeD8547363cE8613d6335e7": {
+      "name": "SPYBASKET",
+      "symbol": "SPYBSKT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:16.146614+00:00",
+      "infra_address": "0x191f44CD8ba4E92C6B3952699b45B4B546e1C338"
+    },
+    "0xA322662d72b50A7577bd1ff13211Fe3bB9ff049E": {
+      "name": "legs.fun",
+      "symbol": "LEGS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:16.578596+00:00",
+      "infra_address": "0xdcC31071D5d6BC61D7b0C3df4A57574537e921eB"
+    },
+    "0xc839De2Bdec27f29954D01B40434115c4c1b6705": {
+      "name": "WEATHER",
+      "symbol": "WEATHER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:17.022073+00:00",
+      "infra_address": "0x926BCf8550D6d7B6903b810841da2f0E2bC06888"
+    },
+    "0xbac38169Ae9a3F174305608732D635fb2b482f57": {
+      "name": "test",
+      "symbol": "TEST",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:17.481277+00:00",
+      "infra_address": "0xA622D84bC9CaF2DbFB65bBdB4aE12eB7502184ad"
+    },
+    "0xdABf3d1EFCB221130D9D1eb48b0b7135b9e0e3cc": {
+      "name": "runt",
+      "symbol": "RUNT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:17.914926+00:00",
+      "infra_address": "0x592af54E5507293897592C12f5cfD002533bB7Ce"
+    },
+    "0x5679e135B87b151fA5033aC1Df668eC7B83C5c36": {
+      "name": "Hoodlympus",
+      "symbol": "HOHM",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:18.348213+00:00",
+      "infra_address": "0x79F134718F8c0dc3b66E83281b6B3A84e52e0Db0"
+    },
+    "0x5E0Ace65b74c546942059Ce9B2FEebb59457b705": {
+      "name": "The Retail Swarm",
+      "symbol": "RETAIL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:18.782846+00:00",
+      "infra_address": "0x2032dAc5f971c50Ecb24Fc9165F87Dd4040eE9A9"
+    },
+    "0x06F187282365Aa54234dC578510e4043d2c94376": {
+      "name": "Pons",
+      "symbol": "PONS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:19.222511+00:00",
+      "infra_address": "0x4018AeEECf2E8A3B7f86771868c859Cacad12826"
+    },
+    "0xcedb575EF00601e52Ed5F579897ffaB88e17A974": {
+      "name": "a circle",
+      "symbol": "CIRCLE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:19.654196+00:00",
+      "infra_address": "0xC5978456646a6Bfb75790FbA562d7F192Ab450A0"
+    },
+    "0x57795c13ccA601a6972E989A7423a1C149BA66d2": {
+      "name": "yieldflare",
+      "symbol": "YIELDFLARE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:20.121588+00:00",
+      "infra_address": "0x2904f1618CfB4c2F9a654406f8f8C166C541Efa4"
+    },
+    "0xd53d905A63Fe9a7F9aFB49707fE8C0b9629CDd60": {
+      "name": "The Retail Swarm",
+      "symbol": "RETAIL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:20.563118+00:00",
+      "infra_address": "0x816Fec8a994640A557475D1CDF6E05CBa30AeB4D"
+    },
+    "0x1164FA99a26c70D0345268D9d7f0E8F8B6D0D9D9": {
+      "name": "The Retail Swarm",
+      "symbol": "TRS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:21.008896+00:00",
+      "infra_address": "0x0524EB0949d02DAA91DEC2Fe421B4Ba215FD3018"
+    },
+    "0x808A5fde83ad105A8B7610Bd29B5Ca72A41B8de9": {
+      "name": "Brk Coin",
+      "symbol": "BRK",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:21.596938+00:00",
+      "infra_address": "0xF44f4C8aD513D8E14C01C156744580Bc17eeB39E"
+    },
+    "0x61a521437778220fa9A76148A9c5e7B3CE7A37C9": {
+      "name": "The AiPOCOLYPSE",
+      "symbol": "AiPOCOLYPSE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:22.040953+00:00",
+      "infra_address": "0xa850100F6DD37353d87f240b7e6fa7a2abcf09dC"
+    },
+    "0x40D6367BFaaf6386978A49832fd1aA8a63Bc7ED9": {
+      "name": "Cavalier MEME",
+      "symbol": "CAVALIER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:22.477085+00:00",
+      "infra_address": "0x95EdE23418fF04707bb0f6A979e9f563C372Ab14"
+    },
+    "0x6A16173732B90d096C754aBBa4981ef9C2dFC3A3": {
+      "name": "BloxPad",
+      "symbol": "BLOXPAD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:22.917216+00:00",
+      "infra_address": "0x4aA0C034D5882324B8187d7b17226CA50B12A633"
+    },
+    "0x6Ea0FD24CC9DaccdF3bBC5a8ec1F7D9BbD6553ee": {
+      "name": "CUMORA.AI",
+      "symbol": "CUMORA.AI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:23.361507+00:00",
+      "infra_address": "0x5c4a989Fd9329f37805D4c0dDc417fA5a93ceb31"
+    },
+    "0x45FBaA5c1eb1F0052F58c6f701F89Fc440ef6D64": {
+      "name": "Robinhood Pixel Cat",
+      "symbol": "ROBINCAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:23.805979+00:00",
+      "infra_address": "0x599981923cf046a4CbA4522Ec7736D230087b3D7"
+    },
+    "0x7296D98d205007fAf086e509641546EF7543515F": {
+      "name": "CHURN",
+      "symbol": "CHURN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:24.253818+00:00",
+      "infra_address": "0xbC751427fed9b2b3BAa833720E312b8b3a0cd154"
+    },
+    "0xbb362598358b1584854436ED7583D92D070F236b": {
+      "name": "the great blue tit",
+      "symbol": "TITS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:24.801820+00:00",
+      "infra_address": "0x3719568315825Fa0EafE044ccA2dAF29056232e3"
+    },
+    "0x22D3031B91A6e606071a03F031e9c18B2eF75896": {
+      "name": "Memeless Coin",
+      "symbol": "MEMELESS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:25.549272+00:00",
+      "infra_address": "0xd75048982a2a0A6Ad1F673A621e1A9c0E35beB87"
+    },
+    "0xeB934bb451d9D79F909CDc4797f01AD9454b06B8": {
+      "name": "Fury DJT",
+      "symbol": "FDJT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:26.132580+00:00",
+      "infra_address": "0x435D6e51200d6A36057722A00FffFb93939F1e9A"
+    },
+    "0xb02C059e77E744A46bd63c45137a4309f81DE12c": {
+      "name": "TerraMeta",
+      "symbol": "TERRAMETA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:26.769659+00:00",
+      "infra_address": "0x3CbA84a7c7F03D750c0FE1cBe3a5eAdf365BD81A"
+    },
+    "0x88f5FFFA828799Ca63DaCE6212F4eff20ec84789": {
+      "name": "Halorin",
+      "symbol": "HALO",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:27.344448+00:00",
+      "infra_address": "0x0503B7888A4db4Df872A8214C01Be862d4387b9e"
+    },
+    "0x5d1014cC526dEfeC8D39A597888bA3a6839b4b22": {
+      "name": "NVIDIA DOG",
+      "symbol": "CHOYI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:27.981550+00:00",
+      "infra_address": "0x958bd1852C49E9077c47f59671F67414B50388c1"
+    },
+    "0x2839f8411938cB58bEC2114B14433a3838D533d4": {
+      "name": "Robinhood Pixel Cat",
+      "symbol": "Felix",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:28.554228+00:00",
+      "infra_address": "0x85Ff541F52e7bcdC662AD5aA8F8c6f65048f2333"
+    },
+    "0x092545BBF60B9Dbfb939aEe5892aA0B983E179c1": {
+      "name": "The Retail Swarm",
+      "symbol": "RETAIL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:29.125565+00:00",
+      "infra_address": "0x97A16F512525CF828c358825907f301eea745053"
+    },
+    "0x23628f3b18cEe77E20362C1Ec47a8aC639c6def3": {
+      "name": "Credora",
+      "symbol": "CRED",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:29.637862+00:00",
+      "infra_address": "0x8C739f703e80fc266866f2C58dAc5DB66893eAc1"
+    },
+    "0xF4Ed0fEc610f3DBBD5F19812e8B2B76F384bb56D": {
+      "name": "Robinhood Shitcoin ",
+      "symbol": "Shitcoin",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:30.473531+00:00",
+      "infra_address": "0x907Bf978EB3C464dDa948b1A04fA1e9d694b5229"
+    },
+    "0x6681be90e3386706FBAD5f2226870D2dc5f24E22": {
+      "name": "SPCX 6900",
+      "symbol": "SPCX6900",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:31.127942+00:00",
+      "infra_address": "0x80b1CFba12ca20B40525e79BD1d3283f05092050"
+    },
+    "0x62C466fA4D2188d1d151CA70233EBec84f0ae1D7": {
+      "name": "mumecoin",
+      "symbol": "MUME",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:31.642517+00:00",
+      "infra_address": "0xa46c9e7A45369F16A72cA91ccA047CBB54c823e0"
+    },
+    "0x4f92969F92405D0666B9eE62E9491F6D9B35C777": {
+      "name": "PEPTIDES",
+      "symbol": "LLY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:32.174254+00:00",
+      "infra_address": "0x9d4D6345Bee4F3D9025F8005A6fB5C5EF2641E07"
+    },
+    "0xB99a1445D04e8B75B5A558E63d5C1dB4323275Ce": {
+      "name": "Wingstop INC.",
+      "symbol": "WING",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:32.655631+00:00",
+      "infra_address": "0xE4A14CFAFFEe186Ce41EaF8D114555fccFBA8540"
+    },
+    "0xBAF2B917d54d2069D7675828aaB4aB9C4281D14A": {
+      "name": "Terra AI",
+      "symbol": "TAI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:33.223042+00:00",
+      "infra_address": "0xfd314107de5Ad118A9D7fF7B45Cd1c99b94f7c06"
+    },
+    "0xB35b756C5a30A734572Aa0325dEE00D80Aa87D2B": {
+      "name": "WEATHER",
+      "symbol": "WEATHER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:33.725712+00:00",
+      "infra_address": "0xC63958cf17e2de8CE8CA43D0Af667BC775730168"
+    },
+    "0x3dfFB7507cC1A637F979bEAE3749De91E0829146": {
+      "name": "Quarter",
+      "symbol": "QTR",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:34.385853+00:00",
+      "infra_address": "0x7fdBc84E6Bb91406D2B97Df9d634678B7a79AC4c"
+    },
+    "0x1644Fc184AA155C88D6e890D65b5961A18c92626": {
+      "name": "la peace",
+      "symbol": "LA\u2060",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:35.944614+00:00",
+      "infra_address": "0x740533CC48D5EDaE17fA77c9989F4b4418F72efa"
+    },
+    "0x2564C080017ff76D75f486D1Ec85e4c266C8E1Dd": {
+      "name": "Raccoon Break-In",
+      "symbol": "RACCOON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:36.432886+00:00",
+      "infra_address": "0xC18E15bf60e6FF8B290d1B3523c3A5Bbc1b60d9e"
+    },
+    "0xd3ffee0fD9A9B98783F3a7e7936cA2d48b93713F": {
+      "name": "mumecoin",
+      "symbol": "MUME",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:36.974011+00:00",
+      "infra_address": "0x3bfEE1A4a0E94df662e9ded14bC0De9350a42053"
+    },
+    "0x9379cA8cF3C3C817E16CA3bC12C001d3404cf627": {
+      "name": "la peace",
+      "symbol": "la",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:37.420661+00:00",
+      "infra_address": "0x77c587a87D95893E5AC6236b02eFD8097D148771"
+    },
+    "0x0cE85CE4Be38B2Ce1AABf8c95F6ee7508648Ef73": {
+      "name": "la peace",
+      "symbol": "peace",
+      "source": "v2",
+      "graduated": true,
+      "first_seen": "2026-09-03T15:47:37.864309+00:00",
+      "infra_address": "0x1E3f86b18A249676b4778ca5c5b43d2d7d2554A6",
+      "graduated_at": "2026-09-03T15:48:08.060160+00:00"
+    },
+    "0x5C1E58D883bE0f036bC86C45CF1287bC4D4cD9fb": {
+      "name": "la peace",
+      "symbol": "LA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:38.306383+00:00",
+      "infra_address": "0x555B7114257116F68a7B00D6e8dbd9D9cc181E37"
+    },
+    "0xB1BcCa4ACf04E7782Dc51457Dee5e1834d02a1e0": {
+      "name": "Thinking Dino",
+      "symbol": "PONDER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:38.785134+00:00",
+      "infra_address": "0xFd690Ef6D22F37EC0dEf1777A1c7D23Ce05d8325"
+    },
+    "0xecAC53D79c0660e472cAd51E1C2f9f4Cd1Ad763A": {
+      "name": "La Peace",
+      "symbol": "LA\u2060PEACE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:39.361128+00:00",
+      "infra_address": "0xd55fdbcb3e4754a91e6297f013BDf1CeC9b198f7"
+    },
+    "0x75C1955DfFe97577ee9BB51fD262cFA7272D670e": {
+      "name": "NVIDIA DOG",
+      "symbol": "CHOYI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:39.937278+00:00",
+      "infra_address": "0x7FB6c24e3030599F3E2a34961Ff3F84654EBe733"
+    },
+    "0xaf329E1CEe685851A47b6338D64062BaB9DC19D1": {
+      "name": "la peace",
+      "symbol": "LA\u2060",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:40.484346+00:00",
+      "infra_address": "0xc7ecB451e134e6579093a2Ba7141BF84ED8d6649"
+    },
+    "0x23c0F0169901f057CeaFA1169826D9419516425C": {
+      "name": "la peace",
+      "symbol": "PEACE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:41.375827+00:00",
+      "infra_address": "0x147fbfF9c02843846bfE389f5C93e5B9F76e9f75"
+    },
+    "0xe7971a3dF61AB4dc5D437c699d9a754069B46809": {
+      "name": "JOE",
+      "symbol": "JOE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:41.956013+00:00",
+      "infra_address": "0x55dfE34D2dB7eBa4c1553Fa102Aa5e05703976Af"
+    },
+    "0x10aCBBF7Fd1885fdbfE0Dde5a4d43df3EaeD9F5C": {
+      "name": "la peace",
+      "symbol": "PEACE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:42.542178+00:00",
+      "infra_address": "0xD94c40Fc5A9eCe414D719849dA5cDE4EA013a3F6"
+    },
+    "0xE56924E382A495949b7AF7A80E91456D5F468fcA": {
+      "name": "GreenChip",
+      "symbol": "GREENCHIP",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:43.280459+00:00",
+      "infra_address": "0x3692281907b071001fD3C09397B7A59c654c6b0f"
+    },
+    "0x258A901D83a5fbF4584aCA4A1e6D4C78Cd818Ae8": {
+      "name": "CrashBandicotKmStopableWumpaWhip",
+      "symbol": "COIN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:43.827096+00:00",
+      "infra_address": "0x72B3734b90FBd80BDC8bF442B5e27eaE4F7e5072"
+    },
+    "0x7d68DDf489bFE539Bf921aF2C46B2fE6d268331D": {
+      "name": "you only live once",
+      "symbol": "YOLO",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:44.350962+00:00",
+      "infra_address": "0x9DBF7773e00E507D20Be0467594f3C94701A3483"
+    },
+    "0xbaE79eb75847C37423ea0E27c38833f6e0AB8E67": {
+      "name": "Memepany",
+      "symbol": "Memepany",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:44.883102+00:00",
+      "infra_address": "0xF090F0A00AD3Ac1E9BA06CCba79bc2ac479BcBec"
+    },
+    "0xc7a2064a9e3e18f087D0a1bb261a92136bb0B40B": {
+      "name": "Robincat",
+      "symbol": "ROBINCAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:45.411308+00:00",
+      "infra_address": "0x47BE6A99a7e5e0a6BF511eD44be56E88221d676b"
+    },
+    "0x2CfA551a04296C10cc93AaAF9D17Ead3F697EC01": {
+      "name": "la peace",
+      "symbol": "lapeace",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:45.939286+00:00",
+      "infra_address": "0xcb4CaB162454A1C53bdb5bb5bD4f6dd9b3Cda985"
+    },
+    "0xDa4747fD83575Bc59af064B464B378e317E9225C": {
+      "name": "la peace",
+      "symbol": "PEACE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:46.465634+00:00",
+      "infra_address": "0xFF18382226Ddf2B945b760113A97827622D5f35F"
+    },
+    "0xA06ae83BDA4960556dd304d67b7f3Af0A422eb5A": {
+      "name": "Robinhood Pixel Cat",
+      "symbol": "Felix",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:46.986454+00:00",
+      "infra_address": "0x1cB8361d078206D67558e1FbB759778db8eD7D0D"
+    },
+    "0x098891E9AbE66e22bdc8848fe559F71600621122": {
+      "name": "Crypto Unc",
+      "symbol": "UNC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:47.497950+00:00",
+      "infra_address": "0xF4e4EdaEAA060c4fb426C25C97967AeaCfECE7f5"
+    },
+    "0x7baD45Cd87cB9F27e7e11809A444EAb6E14F8424": {
+      "name": "BlindPay",
+      "symbol": "BlindPay",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:47.977194+00:00",
+      "infra_address": "0x4046fB70a2c6ca11e1701Fa581146d1CD81806e0"
+    },
+    "0x18E198fb6A3DF1DE4b3fc366a422aDea362b3b62": {
+      "name": "DiorPad",
+      "symbol": "DiorPad",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:48.437427+00:00",
+      "infra_address": "0xF2c33F3A47b6426F1a525b3e6678D525Fc8fe00B"
+    },
+    "0x0e57072bC830BdA92E78B0100B86602941C9241F": {
+      "name": "Robinhood Pixel Pepe",
+      "symbol": "PIXEL PEPE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:48.879768+00:00",
+      "infra_address": "0x2D24f785980E3987717103fb6ee61dA696700225"
+    },
+    "0xf74Dd7E0f27f92A9b698D96Add428ed81CddCaf1": {
+      "name": "Slate",
+      "symbol": "SLT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:49.468128+00:00",
+      "infra_address": "0x6572ed315069125092Be73cE64d82872E09b9260"
+    },
+    "0x188c09a75762ed8022497B2BFfC96C2ef9d492da": {
+      "name": "you only live once",
+      "symbol": "YOLO",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:49.907468+00:00",
+      "infra_address": "0xF838C39036C7F015F51DA428643CB01223edd86F"
+    },
+    "0x4691E65F19E7a5695398832Bba18f24E4047c3cd": {
+      "name": "BTC Cards",
+      "symbol": "CBBTCARDS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:50.345974+00:00",
+      "infra_address": "0xaE4931d38a0Adb0779BF6F01558DF1859f57b62C"
+    },
+    "0x240533679352FE2F63D91D2D189eF95a96F779D0": {
+      "name": "Robinhood Pixel Pepe",
+      "symbol": "PIXEL PEPE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:50.796186+00:00",
+      "infra_address": "0x90b734dcB554e1Ea87188F254114E594f48D8640"
+    },
+    "0x569D74004151a2452F2173DaD445389278daDD3D": {
+      "name": "cwoin",
+      "symbol": "cwoin",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:51.236365+00:00",
+      "infra_address": "0x861baCb1410521B309322daA43Bc0768F4450c79"
+    },
+    "0x3EaB82dcb2377C56D7d777ae41ef0dBF108605AA": {
+      "name": "whiteelephant.com",
+      "symbol": "WE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:51.676849+00:00",
+      "infra_address": "0x3EBe949d38D56e2db22A648870d065B3705a3495"
+    },
+    "0x5c62998a8B600bc5e0E4379153F821AdB104652B": {
+      "name": "Pinpons",
+      "symbol": "PINPONS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:52.193289+00:00",
+      "infra_address": "0x44781c88AAB5cDA33C5b293976772e1Efd7e713D"
+    },
+    "0xbbB26eA1eA5aCaca6fc39c3Ec47d133bFeCdDffa": {
+      "name": "Pixel Cat",
+      "symbol": "PIXEL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:53.023926+00:00",
+      "infra_address": "0x5cF3dFEd4bCC3A635EAB521D016026372448009d"
+    },
+    "0x31DEa1b933dDCeE3AfD72aaC20b56C7039e218d4": {
+      "name": "Cupcake Co.",
+      "symbol": "CAKE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:53.621766+00:00",
+      "infra_address": "0xcE21BCdf0f834A5BFca36A34E4c597Cf043678A1"
+    },
+    "0xFbe36553D38FEBF7f7B84DCE10F53cD0056E251B": {
+      "name": "Denar",
+      "symbol": "DENAR",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:54.217199+00:00",
+      "infra_address": "0xdaC34E6629Cb0F12295A4Bf67b6643681CbF432f"
+    },
+    "0x01eE7F9a484FF99c8eB164071Ac615bb5134C1c5": {
+      "name": "Jobless",
+      "symbol": "JOBLESS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:54.799447+00:00",
+      "infra_address": "0xdFBeceFE9B77168C97eEDD72779Af560149d61Cb"
+    },
+    "0xD8C56ee79ff8168aCaEb888fc0a6ce9a063f85E5": {
+      "name": "Ezita",
+      "symbol": "EZT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:55.377252+00:00",
+      "infra_address": "0xc0d731D414367cB13e2677804A9BB0FE664189B4"
+    },
+    "0x9445E4Af88DD117b0b61fB075A806Db592BB38Ab": {
+      "name": "yolo!",
+      "symbol": "yolo!",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:55.963409+00:00",
+      "infra_address": "0xdC0FD080A837A098BD22BC6baF4dC8813349CB78"
+    },
+    "0xBB9305AE6547f4bd1CE733c3DDd43D7fdEA4fD9B": {
+      "name": "Trialsexe",
+      "symbol": "SEXE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:56.503005+00:00",
+      "infra_address": "0x23251f503ABE1b5d4DBcabBa30b7abF8d8C782f5"
+    },
+    "0xb03010929b99c8aC740803a4c04435b7d805b1a4": {
+      "name": "dwog coin",
+      "symbol": "DWOG",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:57.094858+00:00",
+      "infra_address": "0x4013E7FbC0301c07566aE80c3F09d730eeFd87A6"
+    },
+    "0x61Bb9bBab112Cb81271DF4BF8e95179BfC300be6": {
+      "name": "TEH EPIK DUCK",
+      "symbol": "DUCK",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:57.878304+00:00",
+      "infra_address": "0xF9ABf317080EC133ADC55e06d623BF1DD9596CAA"
+    },
+    "0x086235B7F5450c3A359E598247cDbCb4f3f49F87": {
+      "name": "dwog coin",
+      "symbol": "DWOG",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:58.463284+00:00",
+      "infra_address": "0xdc56469B431185c23E7aE1129b08a05e8faD3945"
+    },
+    "0x36A405a92E558231f8651Dee03A017795AE9aAb3": {
+      "name": "Code Cat",
+      "symbol": "$CODECAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:59.050650+00:00",
+      "infra_address": "0x3da097424662d682C04ECEf39d8241745617f084"
+    },
+    "0x2601bd029de7EEF37A0217E69Ebe129bbD3A678C": {
+      "name": "GROKPANY",
+      "symbol": "GROKPANY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:47:59.631409+00:00",
+      "infra_address": "0xf6b439af95EE5b8FB1f8eeaAfD5f6216eEe4a728"
+    },
+    "0x178F0C0Cb454b2Ec31A0DC20012Df56bfc100A51": {
+      "name": "Padger",
+      "symbol": "PADGER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:00.216721+00:00",
+      "infra_address": "0xC8b41ecEbF6Ff2dFeF6c2a5E51DDD71C4F1d8c04"
+    },
+    "0x53Fc5DBDB3c2fc3dE6dD3669DB9691Cb8B1de519": {
+      "name": "hoodrot",
+      "symbol": "hoodrot",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:00.802480+00:00",
+      "infra_address": "0xF87Ef27784Ec644d38fC1e028cCC7FcCCC79f4A2"
+    },
+    "0xFcd50ae8D4E70561CDc40b0B57a60E38c03BeF8B": {
+      "name": "To The Moon",
+      "symbol": "MOON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:01.381023+00:00",
+      "infra_address": "0x30097e3237Fc4B6996c26498158B2D2ecE9b5F03"
+    },
+    "0x002B2A40977954a1a57bCdb7FdC6589C40d34915": {
+      "name": "reineira",
+      "symbol": "REINEIRA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:01.962499+00:00",
+      "infra_address": "0xf19fbe6a952d873Dd22552FB3d49dc0C6DEA0c32"
+    },
+    "0x4a2869185E00eaE3ADB02C53c62c01EEa200b9a7": {
+      "name": "la peace",
+      "symbol": "lapeace",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:02.565364+00:00",
+      "infra_address": "0xfa16B0BB7605d42e16E450E980Df34D30d6b7025"
+    },
+    "0xcD61493AF06B2C8c6fdd74437C6C45be8358A3f1": {
+      "name": "To The Moon",
+      "symbol": "MOON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:03.144271+00:00",
+      "infra_address": "0x81985B3048b840F5f226622Cfc131dC8c32270de"
+    },
+    "0xfE255cbdc52989744Cd3793d00C48C75754cfC82": {
+      "name": "the pons lifeform",
+      "symbol": "murb",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:03.769757+00:00",
+      "infra_address": "0xa365F75868D9B728c85929A45Fe84EDdcbD2B221"
+    },
+    "0x92a4679475914f21678Af396e565B54cb6AfdD8C": {
+      "name": "Mooncoin",
+      "symbol": "MOONCOIN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:04.351459+00:00",
+      "infra_address": "0x14ea4cE55c59eC4769a73441D75D46F8fb1ABcC6"
+    },
+    "0xBfCB6b0003F28B4Bf03038A70b645cC13351E48F": {
+      "name": "zet",
+      "symbol": "ZETE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:04.946352+00:00",
+      "infra_address": "0xAf7826389191B4973b5401A15994E9a6e5eB0B62"
+    },
+    "0x5EF15300A670e6333A2433654dC9575770Db752b": {
+      "name": "Mooncoin",
+      "symbol": "MOONCOIN",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:05.498201+00:00",
+      "infra_address": "0x19C110e9f4949A637dc603334Ec2D4f982CFc9Df"
+    },
+    "0x4B48F508daae1Ff0b776DD3ea7BdffEFa6d62dcc": {
+      "name": "Dragon Inu",
+      "symbol": "DRAGON",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:06.089196+00:00",
+      "infra_address": "0x28b4eD0250599Fc3fe148180770A3dD468809b36"
+    },
+    "0x44bD3188f4D8Ed704339B029Ac03046007e9475c": {
+      "name": "Silverback",
+      "symbol": "SILVERBACK",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:06.681332+00:00",
+      "infra_address": "0xaBf50A741c814Fa368E5c4B6563baD2f31dCB9Dc"
+    },
+    "0x1a7Cf885caa18534568B2db31CbE3f4e5aF06741": {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:07.269243+00:00",
+      "infra_address": "0x3Bd6bf32F0A345CEB02D5c91532dbA1f4F608627"
+    },
+    "0x565C661e9B532e713e9a86f676CFe300d5E9c08E": {
+      "name": "HoodBasket",
+      "symbol": "HOODBASKET",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:07.892573+00:00",
+      "infra_address": "0xeB26688a411F22289a053bE2a3E6A2658a3A140c"
+    },
+    "0x2aF8877b40624f1cACf1eFfe3B54eb837FEa4175": {
+      "name": "RbynHode",
+      "symbol": "RbynHode",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:10.244615+00:00",
+      "infra_address": "0xa5e16A5F70652382e3A989ea9888867B6848c4a3"
+    },
+    "0x8C7B6A14D227188BDccD954bF6e81Cca1Cf3CFDe": {
+      "name": "apes.app",
+      "symbol": "APES",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:10.687221+00:00",
+      "infra_address": "0x816A1a6cBbe10fD800e476963De8B9B82910be9C"
+    },
+    "0x3a39E7E1Ef48C42eD1Ca888fF5B3d10a279Cee7E": {
+      "name": "Zuck Bucks",
+      "symbol": "ZBC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:11.154879+00:00",
+      "infra_address": "0x4357510bABc6200bD0506bcc243c3b77a3e744fb"
+    },
+    "0x061c2d8dd899DdBfC36551E876d09dbb660809FD": {
+      "name": "Programmed",
+      "symbol": "PROGRAMMED",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:11.606202+00:00",
+      "infra_address": "0x6074Fd3924Bf51EcDF5CBD26078cA1Bf0FB500B5"
+    },
+    "0x15065e0f14B637Eac0AF4d3E7060200c90B4a129": {
+      "name": "artificial inu",
+      "symbol": "AI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:12.051769+00:00",
+      "infra_address": "0x43A6565a5cDA958CCe24Cd097d1aAa1c22d1068A"
+    },
+    "0x7d80d483bE69d1506601104E674FC77655b7Db04": {
+      "name": "TempAI",
+      "symbol": "TEMPAI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:12.495637+00:00",
+      "infra_address": "0x33c5924528A0f8d7AC92bCf259c6c96D98bbd79f"
+    },
+    "0xCc73a758Ba1EaCAb54C4a6877BDAFEA6a243eB74": {
+      "name": "hfonecoin",
+      "symbol": "HFONE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:12.940779+00:00",
+      "infra_address": "0x3955B00219804f674902855f009C3E6B71f203aF"
+    },
+    "0x949DBB3b97181F186eb2ED7d4903049cD5Ec7b43": {
+      "name": "Zuck Bucks",
+      "symbol": "ZBC",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:13.382351+00:00",
+      "infra_address": "0xc8b57FF69B8Bc34A49Cc456Ea65FD4104b601aac"
+    },
+    "0xAA0dfc9913DccDb9Fdd1545a79Ea04b68f8ce39A": {
+      "name": "artificial inu",
+      "symbol": "AI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:13.840146+00:00",
+      "infra_address": "0x892Bb04EC19DC65D0A4fb84Ba59375Ff4ADa0a97"
+    },
+    "0x031c1Fd521528429c2e1E81e564de9527BA6B1e6": {
+      "name": "Touch Grass",
+      "symbol": "TG",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:14.294289+00:00",
+      "infra_address": "0x49774a6A024106Ba49Bc032123A045D356B7b0Cf"
+    },
+    "0x93FCABD23BE6dDfEFE8C2b7d6393a560c8bdB1C9": {
+      "name": "THE JUGGERNAUT",
+      "symbol": "VLAD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:14.739767+00:00",
+      "infra_address": "0x8FF2a0619FD9a4966b67B0a93B91904C912806bc"
+    },
+    "0x75E9bc5B9A4d0347A4bD9165AD3634E54B8B9db8": {
+      "name": "Deep State",
+      "symbol": "DEEPSTATERH",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:15.185250+00:00",
+      "infra_address": "0xe8adAa6c654276C407b74368AAcF1311eEF5587a"
+    },
+    "0x057895E865037CF4A6Ac76E85888FD864E855296": {
+      "name": "Wojak",
+      "symbol": "WOJAK",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:15.634941+00:00",
+      "infra_address": "0x96Cf99b9fE49F066B0f27B24C891A46861910DcA"
+    },
+    "0x0E17a203227F85362253698b2B6e7c0b0f5FcF4b": {
+      "name": "Chimpers",
+      "symbol": "Chimpers",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:16.078460+00:00",
+      "infra_address": "0x8c3f0ca9Bf1D2BB6e2bc65abeCD89C71e1d02BAc"
+    },
+    "0xBA884B9ff0005876d69dd662e9AC44b55d9235ce": {
+      "name": "Ponsling",
+      "symbol": "PSLG",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:16.520580+00:00",
+      "infra_address": "0x6f9D3f5DaD16868fBDF4e41e2Edb41d289590f19"
+    },
+    "0x25abefb74b970e52C37C7F2989D9221006367a84": {
+      "name": "Chimpers",
+      "symbol": "Chimpers",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:16.963761+00:00",
+      "infra_address": "0x9815E3C7087B9d9316140A650B2EBEdB377255b8"
+    },
+    "0xd2748138786F94DDdE8A30436ECa266F658230D4": {
+      "name": "The Noob Trader",
+      "symbol": "NOOB",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:17.540401+00:00",
+      "infra_address": "0x22ad8FD12F4D27E887661725C162c18d72E17d4c"
+    },
+    "0x8AFb7b826F4F4b0015beAC62191B1a0684C88A10": {
+      "name": "Godl Protocol",
+      "symbol": "GODL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:18.261215+00:00",
+      "infra_address": "0xCe36Fef178e18Cf31b6c056086F57510879f7AC3"
+    },
+    "0x264aFA9B465fE72aed3B7088ac98771DfD5F908B": {
+      "name": "La Peace",
+      "symbol": "La Peace",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:18.801293+00:00",
+      "infra_address": "0x42149e552275B7a4531e3B7D777CbE8d1F70EE25"
+    },
+    "0x9ebb2C8b56c619F16F4A60546B778fbE3C480F53": {
+      "name": "Actual inu",
+      "symbol": "AI",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:19.256271+00:00",
+      "infra_address": "0xab70A0054fC117984c458596D2df9E5ee25d0d7E"
+    },
+    "0x25976D9754B95bfF235443a5F3E20AD7a728E7a2": {
+      "name": "Defense Strategy",
+      "symbol": "DEFENSE",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:19.888321+00:00",
+      "infra_address": "0xA1fCDaB19bb32389A35564677E50a0c57FfC2A24"
+    },
+    "0x16391C40e85FB2246A2C8c17bfA2594C5d3EF84b": {
+      "name": "Touch Grass",
+      "symbol": "GRASS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:20.430626+00:00",
+      "infra_address": "0xC2d49FBE68ecA7D911f92679d642e4C805A194DB"
+    },
+    "0x331FC79369D94d9C8360677FA27E5ea2160c6e60": {
+      "name": "Clodiud",
+      "symbol": "CLODIUD",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:21.064105+00:00",
+      "infra_address": "0xfd14a99fA82e25B913Ac6A833Be212165502C18b"
+    },
+    "0x94F070dde3c1704662997AE77950A4ac0eC04B1F": {
+      "name": "IBRL",
+      "symbol": "IBRL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:21.588600+00:00",
+      "infra_address": "0x47b9d3A55faECA3239C290c210C3d0D755407ac0"
+    },
+    "0xBcF2F77e6B35919A664Ee146408f84891fe8A55F": {
+      "name": "RWAGANGSTA",
+      "symbol": "RWAGSTA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:22.113632+00:00",
+      "infra_address": "0x5F83F4abF8B0Bd1De82E244D5dc65552d0116DBc"
+    },
+    "0xD746c9c407e2E01fce7bf80c9D5a97928c43357a": {
+      "name": "IncreaseBandwidthReduceLatency",
+      "symbol": "IBRL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:22.638891+00:00",
+      "infra_address": "0x3d20023935B94B137229b5be43e58a65D5203195"
+    },
+    "0x3E4Af611383ceC706EAdAe5F55A80a4c707cE852": {
+      "name": "IncreaseBandwidthReduceLatency",
+      "symbol": "ibrl",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:23.131907+00:00",
+      "infra_address": "0x5920dBFeDf9BFC5c7E82D597036b621688792CDd"
+    },
+    "0x190d3DE42Db043f377166025D2c4d385d286EB2e": {
+      "name": "WINKCAT",
+      "symbol": "WINKCAT",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:23.736030+00:00",
+      "infra_address": "0xacD78e16f17Eda87eF93b4449b1E1cC7EBED6378"
+    },
+    "0x3EFC8C411b548a1A17766766109335F9654091e5": {
+      "name": "Adam Thomas Bus Survival",
+      "symbol": "ADAMBUS",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:24.264005+00:00",
+      "infra_address": "0xE51e8D1cBB64Ac07ca856DDC628Db4dc37963Eb5"
+    },
+    "0x8AE96a98dd642144092718f79B0b38832450a587": {
+      "name": "Adam Thomas Bus Survival",
+      "symbol": "ADAM",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:24.797123+00:00",
+      "infra_address": "0xD72a50DfC4c8dB8E84c1e57f5E63bb3BD8FA4F67"
+    },
+    "0x1c1aF0481a3E3da4CB9252aF57cB6e13559d4509": {
+      "name": "We Live We Love We Lie",
+      "symbol": "WLWLWL",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:25.321971+00:00",
+      "infra_address": "0x91c0b19b666C903a10eabdA60F3229179F7666F7"
+    },
+    "0x91636a052E538F58b10e963ca187bFEb3275181b": {
+      "name": "LMEOW",
+      "symbol": "LMEOW",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:25.839300+00:00",
+      "infra_address": "0x8A0617549B2528Aa1d094BE3aA9B74e9DD425B37"
+    },
+    "0xb0dBb6BDeaaA3C4A7cBe8ffB5074f8A44819A349": {
+      "name": "expira.day",
+      "symbol": "EXPIRA",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:26.286904+00:00",
+      "infra_address": "0xAFd75bBF625eEb98514B6e45351275F4619dA9E4"
+    },
+    "0xd11C898f222DBD442A3363636f400cb564C86396": {
+      "name": "Stonky",
+      "symbol": "STONKY",
+      "source": "v2",
+      "graduated": false,
+      "first_seen": "2026-09-03T15:48:26.758434+00:00",
+      "infra_address": "0x84B51ff65c646059c9F51448e6023b6D179e1a4c"
     }
   },
-  "last_checked_at": "2026-09-03T15:35:20.562611+00:00",
+  "last_checked_at": "2026-09-03T15:48:27.518756+00:00",
   "check_seq": 249680
 }
